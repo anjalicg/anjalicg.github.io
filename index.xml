@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on My blog.. learning new things </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://anjalicg.github.io/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Introduction</title>
-      <link>http://anjalicg.github.io/topic/intro/</link>
+      <link>http://localhost:1313/topic/intro/</link>
       <pubDate>Mon, 22 Dec 2014 23:41:34 PST</pubDate>
       
-      <guid>http://anjalicg.github.io/topic/intro/</guid>
+      <guid>http://localhost:1313/topic/intro/</guid>
       <description>&lt;p&gt;This is an introduction page for this blog.&lt;/p&gt;
 
 &lt;p&gt;Built using &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt;&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>About</title>
-      <link>http://anjalicg.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 22 Dec 2014 21:41:02 PST</pubDate>
       
-      <guid>http://anjalicg.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>
 
 &lt;p&gt;This is where I will record the things I have learnt, problems faced and solved!! A place to record the interesting.&lt;/p&gt;
@@ -58,6 +58,8 @@
 &lt;li&gt;&lt;em&gt;to be updated..&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=font-size:small&gt;&lt;em&gt;You don&amp;rsquo;t learn to walk by following rules. You learn by doing, and falling over. - Richard Branson&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
     

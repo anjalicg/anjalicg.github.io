@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Topics on My blog.. learning new things </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://anjalicg.github.io/topic/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 22 Dec 2014 23:41:34 PST</updated>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://anjalicg.github.io/topic/intro/</link>
+      <pubDate>Mon, 22 Dec 2014 23:41:34 PST</pubDate>
+      
+      <guid>http://anjalicg.github.io/topic/intro/</guid>
+      <description>&lt;p&gt;This is an introduction page for this blog.&lt;/p&gt;
+
+&lt;p&gt;Built using &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hosted in &lt;a href=&#34;http://www.github.com&#34;&gt;github.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Github Markdown &lt;a href=&#34;https://help.github.com/articles/markdown-basics/&#34;&gt;basics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To be updated later&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

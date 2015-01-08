@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on My blog.. learning new things </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>http://anjalicg.github.io/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,19 +11,19 @@
     
     <item>
       <title>light read</title>
-      <link>http://localhost:1313/topic/light-read/</link>
+      <link>http://anjalicg.github.io/topic/light-read/</link>
       <pubDate>Tue, 23 Dec 2014 00:42:20 PST</pubDate>
       
-      <guid>http://localhost:1313/topic/light-read/</guid>
+      <guid>http://anjalicg.github.io/topic/light-read/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/topic/intro/</link>
+      <link>http://anjalicg.github.io/topic/intro/</link>
       <pubDate>Mon, 22 Dec 2014 23:41:34 PST</pubDate>
       
-      <guid>http://localhost:1313/topic/intro/</guid>
+      <guid>http://anjalicg.github.io/topic/intro/</guid>
       <description>&lt;p&gt;This is an introduction page for this blog.&lt;/p&gt;
 
 &lt;p&gt;Built using &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt;&lt;/p&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://anjalicg.github.io/about/</link>
       <pubDate>Mon, 22 Dec 2014 21:41:02 PST</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://anjalicg.github.io/about/</guid>
       <description>
 
 &lt;p&gt;This is where I will record the things I have learnt, problems faced and solved!! A place to record the interesting.&lt;/p&gt;

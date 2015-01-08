@@ -7,7 +7,16 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 22 Dec 2014 23:41:34 PST</updated>
+    <updated>Tue, 23 Dec 2014 00:42:20 PST</updated>
+    
+    <item>
+      <title>light read</title>
+      <link>http://localhost:1313/topic/light-read/</link>
+      <pubDate>Tue, 23 Dec 2014 00:42:20 PST</pubDate>
+      
+      <guid>http://localhost:1313/topic/light-read/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Introduction</title>
@@ -23,7 +32,7 @@
 
 &lt;p&gt;Github Markdown &lt;a href=&#34;https://help.github.com/articles/markdown-basics/&#34;&gt;basics&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;To be updated later&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;More to be updated later&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -64,9 +73,9 @@
 &lt;p&gt;The status of all my side projects can be described by this &lt;a href=&#34;http://www.commitstrip.com/en/2014/11/25/west-side-project-story/&#34;&gt;cartoon strip&lt;/a&gt;. So, in no particular order, various projects are:-&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;learning go lang&lt;/li&gt;
-&lt;li&gt;algorithms using ruby&lt;/li&gt;
-&lt;li&gt;the blog ofcourse&lt;/li&gt;
+&lt;li&gt;learning go lang  - some sample code snippets to learn go language&lt;/li&gt;
+&lt;li&gt;algorithms using ruby - Implementing some of the algorithms from the CLRS book&lt;/li&gt;
+&lt;li&gt;the blog ofcourse - the content for this blog is hosted&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;still in my mind, no repo yet&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;*still in my mind *&lt;/li&gt;
 &lt;/ul&gt;
